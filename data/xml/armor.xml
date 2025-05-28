@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <id_i>30001</id_i>
+    <name_s>布帽</name_s>
+    <quality_i>1</quality_i>
+    <icon_s>cloth_cap.png</icon_s>
+    <width_i>2</width_i>
+    <height_i>2</height_i>
+    <level_i>1</level_i>
+    <buy_price_m>10001:50</buy_price_m>
+    <sell_price_m>10001:25</sell_price_m>
+  </data>
+  <data/>
+</root>

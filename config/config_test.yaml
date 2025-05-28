@@ -1,0 +1,10 @@
+app:  
+  name: OtherLife
+  version: 0.0.1
+
+log:
+  path: logs/
+  level: DEBUG
+
+xml_path:
+  data/xml/

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <id_i>10001</id_i>
+    <name_s>金币</name_s>
+    <quality_i>1</quality_i>
+    <icon_s>gold.png</icon_s>
+    <width_i>1</width_i>
+    <height_i>1</height_i>
+    <max_stack_i>10000</max_stack_i>
+  </data>
+  <data>
+    <id_i>10002</id_i>
+    <name_s>钻石</name_s>
+    <quality_i>1</quality_i>
+    <width_i>1</width_i>
+    <height_i>1</height_i>
+    <max_stack_i>10000</max_stack_i>
+  </data>
+</root>
